@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e9cb5fa3-5784-4860-8461-9fcaed0b2388",
+  "id_short": 668423,
+  "published_at": "2026-04-14T19:34:24Z",
+  "repo_name": "restaurant-tiktok-renegades-in-north-carolina-us-sample-668423",
+  "sample_asset_name": "beamstation_668423_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/668423/beamstation_668423_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_records": 9,
+  "sample_sha256": "e6cc0ef8e3cdf380f3313073e2fc6ccb11b46437567fcd7a9fb2e16c7954fc1f",
+  "sample_size_bytes": 55367,
+  "total_records": 98
+}
