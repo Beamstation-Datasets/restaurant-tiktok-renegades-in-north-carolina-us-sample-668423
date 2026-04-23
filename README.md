@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in North Carolina, US
 
-> Free BeamStation sample export with 9 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `668423` |
 | Location | North Carolina |
 | Category | Restaurants |
-| Full dataset size | 97 records |
-| Free sample size | 9 records (9.28%) |
-| Last export | 2026-04-15T09:28:58.523019+00:00 |
+| Full dataset size | 57 records |
+| Free sample size | 5 records (8.77%) |
+| Last export | 2026-04-22T17:07:37.924530+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-north-carolina-us-sample-668423/releases/download/sample-latest/beamstation_668423_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
